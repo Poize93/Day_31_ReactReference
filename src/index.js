@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import App from "./App";
+import AppClassComponent from "./AppClassComponent";
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<AppClassComponent />, document.getElementById("root"));

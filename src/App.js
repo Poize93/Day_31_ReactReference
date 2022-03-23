@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import React, { useRef } from 'react'; ///here we are using useRef , which is only possible in Function . For class we can use CreateRef.
 import './style.css';
 import Counter from './Counter';
 ///functionality from a Child Component in Parent
